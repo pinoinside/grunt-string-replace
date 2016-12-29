@@ -1,11 +1,12 @@
 {
-  "name": "grunt-string-replace",
+  "name": "grunt-string-replacer",
   "description": "Simple Grunt plugin for string replacement",
   "version": "0.0.1",
   "homepage": "https://github.com/pinoinside/grunt-string-replace",
   "author": {
     "name": "Andrea Pinucci",
-    "email": "a.pinucci@gmail.com"
+    "email": "a.pinucci@gmail.com",
+    "url": "www.pinoinside.it"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,9 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.9.2",

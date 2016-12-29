@@ -1,5 +1,5 @@
 /*
- * grunt-string-replace
+ * grunt-string-replacer
  *
  *
  * Copyright (c) 2016 Andrea Pinucci

@@ -1,4 +1,4 @@
-# grunt-string-replace
+# grunt-string-replacer
 Simple Grunt plugin for string replacement
 
 ## What's this?
@@ -19,7 +19,7 @@ npm install grunt-string-replace --save-dev
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-string-replace');
+grunt.loadNpmTasks('grunt-string-replacer');
 ```
 
 ## The "stringreplace" task
